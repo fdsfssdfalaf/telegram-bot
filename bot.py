@@ -7,7 +7,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.filters import Command
 from aiogram.types import Message, ChatPermissions
 
-TOKEN = "ВСТАВЬ_СЮДА_НОВЫЙ_ТОКЕН"
+TOKEN = "8886975015:AAEQUyDS_VK5j8N2ycJI41vlURzM6Xe5PHw"
 
 OWNER_ID = 1932871668
 
